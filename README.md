@@ -7,7 +7,7 @@ Aplikasi yang diperlukan:
 2. [Mixplorer](https://t.me/c/2099749858/39/774) untuk memindahkan file py ke folder ```root/data/data/com.termux/files/home/disini```
 3. [Termux](https://github.com/termux/termux-app/releases) (untuk menjalankan script) <br>
 Cara install termux:
-Download termux nya, cara menginstall packagenya (hanya sekali dilakukan), ketik ```pkg install``` setelah itu klik enter, <br> ```pkg install python```
+Download termux nya, cara menginstall packagenya (hanya sekali dilakukan), ketik: <br> ```pkg install``` setelah itu klik enter, <br> ```pkg install python```
 (klik enter). <br>
 menjalankan scriptnya Ketik 
 ```python newfile2.py``` (klik enter) <br><br> Dibawah adalah file yang sudah jadi tinggal install Termux dan packagenya, pindah filenya (tutor no 2),  dan jalankan scriptnya

@@ -9,4 +9,4 @@ Aplikasi yang diperlukan:
 Cara install termux:
 Download termux nya, cara menginstall packagenya (hanya sekali dilakukan), ketik: <br> ```pkg install``` setelah itu klik enter, <br> ```pkg install python```
 (klik enter). <br>
-```python newfile2.py``` (enter, selesai. ulangi command ini untuk menjalankan scriptnya) <br><br> Dibawah adalah file yang sudah jadi tinggal install Termux dan packagenya, pindah filenya (tutor no 2),  dan jalankan scriptnya
+```python newfile2.py``` (enter, selesai. ulangi command ini untuk menjalankan scriptnya) <br><br> Dibawah bagian Releases adalah file yang sudah jadi tinggal install Termux dan packagenya, pindah filenya (tutor no 2),  dan jalankan scriptnya
